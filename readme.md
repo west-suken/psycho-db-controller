@@ -2,7 +2,7 @@
 
 ### Setup
 
-This is a private repository. You have to install this via GitHub.
+You have to install this via GitHub.
 
 ```
 $ npm install --save west-suken/psycho-db-controller
